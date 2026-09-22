@@ -125,13 +125,13 @@ Give clear, up-to-date info on dog rules, fees, parking, and access for every tr
 
 Identify the three findings that should move forward into Week 7.
 
-1. Difficulty Labels Aren’t Explained
+1. Difficulty Labels Aren’t Explained.
    Maya’s just starting out and needs to know if a trail fits her skill level. The site throws around labels like “Easy” and “Moderate,” but it doesn’t explain what they actually mean. Without clear definitions, Maya can’t tell if a trail is right for her—and picking a hike that’s too tough is the last thing she wants.
 
-2. No Estimated Hiking Time
+2. No Estimated Hiking Time.
    Maya’s got a three-hour window and wants a hike that’ll fit. But the site doesn’t give any time estimates—just distance and elevation—so she’s left guessing if she can finish in time. That’s a lot of uncertainty when all she wants is to plan her day.
 
-3. Dog Rules, Fees, and Access Are Unclear
+3. Dog Rules, Fees, and Access Are Unclear.
    Before Maya heads out, she needs the basics—parking, fees, access, and whether her dog can come. The site is vague, saying things like dogs “may be allowed” and fees or hours “could change.” That means Maya’s got to dig around for answers somewhere else, which makes planning way harder than it should be.
 
 For each, briefly explain why it matters to Maya's primary task.
